@@ -1,0 +1,6 @@
+langauge: c
+sudo: false
+compiler: gcc
+script:
+  - gcc HelloWorld.c
+  - ./HelloWorld
