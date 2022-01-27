@@ -2,5 +2,5 @@ langauge: c
 sudo: false
 compiler: gcc
 script:
-  - gcc HelloWorld.c
+  - gcc HelloWorld.c HelloWorld
   - ./HelloWorld
